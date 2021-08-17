@@ -3,7 +3,7 @@
 Welcome to the Ski - Oluwaseun's Edition!
 
 You can play our version here: 
-http://ceros-ski.herokuapp.com/  
+https://ski.akintolaseun.com.ng/  
 
 deploy it locally by running:
 ```
